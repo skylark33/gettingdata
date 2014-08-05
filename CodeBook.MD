@@ -30,8 +30,8 @@ tBodyGyro-mean-Z	    Time	Body	 Angular Velocity			   Mean	                Z
 tBodyGyroJerk-mean-X 	    Time	Body	 Angular Velocity	X		   Mean	                X
 tBodyGyroJerk-mean-Y	    Time	Body	 Angular Velocity	X		   Mean	                Y
 tBodyGyroJerk-mean-Z	    Time	Body	 Angular Velocity	X		   Mean	                Z
-tBodyAccMag-mean	    Time	Body	 Acceleration		X	           Mean	
-tGravityAccMag-mean	    Time	Gravity	 Acceleration		X	           Mean	
+tBodyAccMag-mean	    Time	Body	 Acceleration			    X      Mean	
+tGravityAccMag-mean	    Time	Gravity	 Acceleration			    X      Mean	
 tBodyAccJerkMag-mean	    Time	Body	 Acceleration	        X	    X	   Mean	
 tBodyGyroMag-mean	    Time	Body	 Angular Velocity		    X	   Mean	
 tBodyGyroJerkMag-mean	    Time	Body	 Angular Velocity	X	    X	   Mean	
@@ -44,7 +44,7 @@ fBodyAccJerk-mean-Z	    Frequency	Body	 Acceleration	        X		   Mean	        
 fBodyGyro-mean-X	    Frequency	Body	 Angular Velocity			   Mean	                X
 fBodyGyro-mean-Y	    Frequency	Body	 Angular Velocity			   Mean	                Y
 fBodyGyro-mean-Z	    Frequency	Body	 Angular Velocity			   Mean	                Z
-fBodyAccMag-mean	    Frequency	Body	 Acceleration		X	           Mean	
+fBodyAccMag-mean	    Frequency	Body	 Acceleration			    X      Mean	
 fBodyBodyAccJerkMag-mean    Frequency	Body	 Acceleration	        X	    X	   Mean	
 fBodyBodyGyroMag-mean	    Frequency	Body	 Angular Velocity		    X	   Mean	
 fBodyBodyGyroJerkMag-mean   Frequency	Body	 Angular Velocity	X	    X	   Mean	
@@ -63,8 +63,8 @@ tBodyGyro-std-Z	            Time	Body	 Angular Velocity			   Standard Deviation	
 tBodyGyroJerk-std-X	    Time	Body	 Angular Velocity	X		   Standard Deviation	X
 tBodyGyroJerk-std-Y	    Time	Body	 Angular Velocity	X		   Standard Deviation	Y
 tBodyGyroJerk-std-Z 	    Time	Body	 Angular Velocity	X		   Standard Deviation	Z
-tBodyAccMag-std 	    Time	Body	 Acceleration		X	           Standard Deviation	
-tGravityAccMag-std	    Time	Gravity	 Acceleration		X	           Standard Deviation	
+tBodyAccMag-std 	    Time	Body	 Acceleration			    X      Standard Deviation	
+tGravityAccMag-std	    Time	Gravity	 Acceleration			    X      Standard Deviation	
 tBodyAccJerkMag-std	    Time	Body	 Acceleration	        X	    X	   Standard Deviation	
 tBodyGyroMag-std	    Time	Body	 Angular Velocity		    X	   Standard Deviation	
 tBodyGyroJerkMag-std	    Time	Body	 Angular Velocity	X	    X	   Standard Deviation	
@@ -77,7 +77,7 @@ fBodyAccJerk-std-Z	    Frequency	Body	 Acceleration	        X		   Standard Devia
 fBodyGyro-std-X 	    Frequency	Body	 Angular Velocity			   Standard Deviation	X
 fBodyGyro-std-Y 	    Frequency	Body	 Angular Velocity			   Standard Deviation	Y
 fBodyGyro-std-Z	            Frequency	Body	 Angular Velocity			   Standard Deviation	Z
-fBodyAccMag-std 	    Frequency	Body	 Acceleration		X	           Standard Deviation	
+fBodyAccMag-std 	    Frequency	Body	 Acceleration			    X      Standard Deviation	
 fBodyBodyAccJerkMag-std     Frequency	Body	 Acceleration	        X	    X	   Standard Deviation	
 fBodyBodyGyroMag-std	    Frequency	Body	 Angular Velocity	 	    X	   Standard Deviation	
 fBodyBodyGyroJerkMag-std    Frequency	Body	 Angular Velocity	X	    X	   Standard Deviation	
